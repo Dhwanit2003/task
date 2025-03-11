@@ -9,11 +9,6 @@ A Flutter application that fetches data from a public API ([JSONPlaceholder](htt
 - Handles API errors gracefully with a user-friendly error message.
 - Clean and modern UI with consistent typography, icons, and spacing.
 
-## Screenshots
-![App Screenshot](screenshots/screenshot1.png)  
-*Example of the app displaying posts.*
-
-## Getting Started
 
 ### Prerequisites
 - Flutter SDK installed on your machine.
