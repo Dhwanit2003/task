@@ -20,7 +20,7 @@ A Flutter application that fetches data from a public API ([JSONPlaceholder](htt
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flutter-api-example.git
+   git clone https://github.com/Dhwanit2003/task.git
 
 2. Navigate to the project directory:
     ```bash
