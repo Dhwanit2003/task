@@ -9,6 +9,9 @@ A Flutter application that fetches data from a public API ([JSONPlaceholder](htt
 - Handles API errors gracefully with a user-friendly error message.
 - Clean and modern UI with consistent typography, icons, and spacing.
 
+##  Dependencies
+- http: For making API requests.
+
 
 ### Prerequisites
 - Flutter SDK installed on your machine.
@@ -18,3 +21,17 @@ A Flutter application that fetches data from a public API ([JSONPlaceholder](htt
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/flutter-api-example.git
+
+2. Navigate to the project directory:
+    ```bash
+    cd task-main
+
+3. Install dependencies:
+   ```bash
+   flutter pub get
+
+4. Run the app:
+      ```bash
+      flutter run
+
+
